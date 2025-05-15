@@ -1,3 +1,14 @@
 fastapi
 uvicorn
 python-dotenv
+yfinance
+pandas
+numpy
+scikit-learn
+sqlalchemy
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+scipy
+requests
